@@ -1,0 +1,192 @@
+﻿<Window x:Class="OPV_Helper.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+        xmlns:local="clr-namespace:OPV_Simulator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="968" Width="1850">
+    <Window.Background>
+        <RadialGradientBrush>
+            <GradientStop Color="Black" Offset="0"/>
+            <GradientStop Color="#FFBBB3B3" Offset="1"/>
+        </RadialGradientBrush>
+    </Window.Background>
+
+
+    <Grid Margin="2,86,2,0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="45*"/>
+            <RowDefinition Height="806*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="185*"/>
+            <ColumnDefinition Width="772*"/>
+            <ColumnDefinition Width="881*"/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Menu Grid.Column="0" Grid.ColumnSpan="6" Grid.Row="0" Margin="0,-85,-2,105">
+            <MenuItem Header="File" Height="25" Click="MenuItem_Click_2" FontFamily="Arial Black" FontSize="14" >
+                <MenuItem Header="Open" Click="MenuItem_Click_4"/>
+                <MenuItem Header="Save" Click="MenuItem_Click_6"/>
+                <MenuItem Header="Exit" Click="MenuItem_Click_1"/>
+            </MenuItem>
+            <MenuItem Header="Tools" Click="Tools_Clicked" FontFamily="Arial Black" FontSize="13">
+                <MenuItem Header="Create new Excel sheet" Click="MenuItem_Click_5" />
+                <MenuItem Header="Save Grid in .xls" Click="MenuItem_Click_3"/>
+                <MenuItem Header="Split the txt" Click="MenuItem_clickcklick"/>
+            </MenuItem>
+        </Menu>
+        <lvc:CartesianChart x:Name="I_V_chart"  Margin="0,10,4,211" MaxHeight="780" Grid.Column="1" Grid.ColumnSpan="3" Grid.RowSpan="2" RenderTransformOrigin="0.515,0.481" Foreground="Black" ScrollBarFill="{x:Null}" OpacityMask="Black" Zoom="X" >
+            <lvc:CartesianChart.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="#FF767575" Offset="1"/>
+                </LinearGradientBrush>
+            </lvc:CartesianChart.Background>
+            <lvc:CartesianChart.Effect>
+                <DropShadowEffect RenderingBias="Quality" Color="#FF361F1F" Opacity="0.8"/>
+            </lvc:CartesianChart.Effect>
+            <lvc:CartesianChart.Series >
+                <lvc:LineSeries Values="{Binding SeriesCollection}" Stroke="Red" />
+            </lvc:CartesianChart.Series>
+            <lvc:CartesianChart.AxisY>
+                <lvc:Axis Title="Current" Labels="{Binding Labels}" FontSize="15"></lvc:Axis>
+            </lvc:CartesianChart.AxisY>
+            <lvc:CartesianChart.AxisX>
+                <lvc:Axis Title="Voltage" Labels="{Binding Labels}" FontSize="15" OpacityMask="Black" IsHitTestVisible="False"/>
+            </lvc:CartesianChart.AxisX>
+        </lvc:CartesianChart>
+        <lvc:CartesianChart x:Name="P_V_chart"  Margin="0,10,2,211" MaxHeight="780" Grid.Column="4" Grid.RowSpan="2" BorderBrush="#FFC58484" FontWeight="Bold" FontStyle="Italic" Zoom="X"   >
+            <lvc:CartesianChart.Background>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF767575" Offset="1"/>
+                </LinearGradientBrush>
+            </lvc:CartesianChart.Background>
+            <lvc:CartesianChart.Effect>
+                <DropShadowEffect Color="#FF462C2C" Opacity="0.8" RenderingBias="Quality"/>
+            </lvc:CartesianChart.Effect>
+            <lvc:CartesianChart.Series>
+                <lvc:LineSeries Values="{Binding SeriesCollection}"  Stroke="#6BBA45" PointGeometrySize="8" />
+            </lvc:CartesianChart.Series>
+            <lvc:CartesianChart.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="#FFBD3636" Offset="1"/>
+                </LinearGradientBrush>
+            </lvc:CartesianChart.Foreground>
+            <lvc:CartesianChart.AxisY>
+                <lvc:Axis Title="Power" Labels="{Binding Labels}" FontSize="15"/>
+            </lvc:CartesianChart.AxisY>
+            <lvc:CartesianChart.AxisX>
+                <lvc:Axis Title="Voltage" Labels="{Binding Labels}" FontSize="15"/>
+
+            </lvc:CartesianChart.AxisX>
+        </lvc:CartesianChart>
+        <Button x:Name="MyButton" Content="Plot" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="130" FontSize="18" FontWeight="Bold" FontStyle="Italic" RenderTransformOrigin="0.5,0.5" Click="MyButton_Click" Height="60" Grid.Row="1" FontFamily="Rockwell Extra Bold" Margin="0,0,0,146" Grid.Column="2">
+            <Button.Effect>
+                <DropShadowEffect RenderingBias="Quality" ShadowDepth="7" Direction="316"/>
+            </Button.Effect>
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1" ScaleX="1"/>
+                    <SkewTransform AngleY="0" AngleX="0"/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <TextBox Name="AATextbox" Margin="227,0,345,27" Grid.Column="3" Grid.Row="1"  TextChanged="AATextbox_TextChanged" HorizontalScrollBarVisibility="Disabled" RenderTransformOrigin="0.427,0.436" Width="200" VerticalAlignment="Bottom" Height="45" FontSize="18" BorderBrush="Black"  >
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="360.089"/>
+                    <TranslateTransform X="29.921" Y="21.42"/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <DataGrid   AutoGenerateColumns="False" Grid.Column="4" HorizontalAlignment="Right" Height="206" Margin="0,0,-2,0" Grid.Row="1" VerticalAlignment="Bottom" Width="817" Name="XLgrid" RenderTransformOrigin="0.481,0.447" Grid.ColumnSpan="2" Background="#FFCFCCCC" BorderBrush="#FF3A526A" >
+            <DataGrid.Columns >
+                <DataGridTextColumn Header="Line" Binding="{Binding Path=Line,Mode=TwoWay}"   />
+                <DataGridTextColumn Header="PartOfLine" Binding="{Binding Path=partofline,Mode=TwoWay}" />
+                <DataGridTextColumn Header="Part" Binding="{Binding Path=Part,Mode=TwoWay}"/>
+                <DataGridTextColumn Header="Pattern" Binding="{Binding Path=Pattern,Mode=TwoWay}" />
+                <DataGridTextColumn Header="A.A." Binding="{Binding Path=AA}"/>
+                <DataGridTextColumn Header="Isc" Binding="{Binding Path=Isc,Mode=TwoWay}"/>
+                <DataGridTextColumn Header="Voc" Binding="{Binding Path=Voc,Mode=TwoWay}"/>
+                <DataGridTextColumn Header="FF" Binding="{Binding Path=FF,Mode=TwoWay}"/>
+                <DataGridTextColumn Header=" Rseries" Binding="{Binding Path= Rseries,Mode=TwoWay}"/>
+                <DataGridTextColumn Header="Rshunt" Binding="{Binding Path=Rshunt,Mode=TwoWay}"/>
+                <DataGridTextColumn Header="Imp" Binding="{Binding Path=Imp,Mode=TwoWay}"  />
+                <DataGridTextColumn Header="Vmp" Binding="{Binding Path=Vmp,Mode=TwoWay}"/>
+                <DataGridTextColumn Header="Pmp" Binding="{Binding Path=Pmp,Mode=TwoWay}"/>
+                <DataGridTextColumn Header="PCE %" Binding="{Binding Path=PCE,Mode=TwoWay}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label Content="Active Area m^2" Grid.Column="3" Margin="257,0,315,56" Grid.Row="1" VerticalAlignment="Bottom" Height="47" FontSize="18" Background="#FF35467E" VerticalContentAlignment="Stretch" HorizontalContentAlignment="Center" Foreground="#FFAADA8F">
+            <Label.Effect>
+                <DropShadowEffect/>
+            </Label.Effect>
+        </Label>
+        <Label Content="Light Intensity W/m^2" Grid.Column="3" Margin="257,0,316,158" Grid.Row="1" VerticalAlignment="Bottom" RenderTransformOrigin="0.5,0.5" Height="47" FontSize="18" Foreground="#FF7C5F5F" HorizontalContentAlignment="Center" >
+            <Label.Effect>
+                <DropShadowEffect/>
+            </Label.Effect>
+            <Label.Background>
+                <SolidColorBrush Color="#FFECEC19"/>
+            </Label.Background>
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.024"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <TextBox x:Name="Irradiance" Grid.Column="3" Height="45" Margin="257,0,316,108" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Bottom" FontSize="18" BorderBrush="Black" Foreground="Black" SelectionBrush="#FF8C8E8F" Width="200" TextChanged="Irradiance_TextChanged" />
+
+        <ListBox x:Name="DeviceManager" HorizontalContentAlignment="Stretch" SelectionMode="Extended"  Grid.Column="3" Margin="0,0,820,4" Grid.Row="1" VerticalAlignment="Bottom" Height="202" HorizontalAlignment="Right" Width="372" Grid.ColumnSpan="2" Background="#FFD6CECE">
+            <DockPanel Margin="10">
+                <StackPanel DockPanel.Dock="Right" Margin="10,0">
+                    <StackPanel.Resources>
+                        <Style TargetType="Button">
+                            <Setter Property="Margin" Value="0,0,0,5" />
+                        </Style>
+                    </StackPanel.Resources>
+                    <TextBlock FontWeight="Bold" Margin="0,0,0,10" Foreground="#FFDE3040" FontSize="14">
+                        <TextBlock.Effect>
+                            <DropShadowEffect BlurRadius="12.2"/>
+                        </TextBlock.Effect>Device selection</TextBlock>
+                    <Button x:Name="btnNext" Click="btnSelectLast_Click" Foreground="#FF0303C3" FontSize="14" FontWeight="Bold" FontStyle="Italic">Select next</Button>
+                    <Button x:Name="btnPrevious" Click="btnSelectNext_Click" FontSize="14" FontWeight="Bold" FontStyle="Italic" Foreground="#FF000099">Select previous</Button>
+                    <Button Name="Enter" Click="btnEnter_Click" FontSize="16" Foreground="#FF0413A4" FontWeight="Bold" FontStyle="Italic">Enter</Button>
+
+                </StackPanel>
+                <ListBox Name="DeviceManager1" HorizontalContentAlignment="Stretch" SelectionMode="Extended"  Height="171" SelectionChanged="DeviceManager1_SelectionChanged" Background="#FFE7E4F5" >
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <Grid Margin="0,2">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="100" />
+                                </Grid.ColumnDefinitions>
+                                <TextBlock Text="{Binding DeviceTittle}" />
+
+                            </Grid>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </DockPanel>
+            <ListBox.Effect>
+                <DropShadowEffect/>
+            </ListBox.Effect>
+        </ListBox>
+    </Grid>
+</Window>
+    

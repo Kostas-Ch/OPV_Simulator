@@ -1,0 +1,69 @@
+C:\Users\OET Intern\source\repos\OPV_Simulator\OPV_Simulator\bin\Debug\OPV_Simulator.exe.config
+C:\Users\OET Intern\source\repos\OPV_Simulator\OPV_Simulator\bin\Debug\OPV_Simulator.exe
+C:\Users\OET Intern\source\repos\OPV_Simulator\OPV_Simulator\bin\Debug\OPV_Simulator.pdb
+C:\Users\OET Intern\source\repos\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Simulator.csprojAssemblyReference.cache
+C:\Users\OET Intern\source\repos\OPV_Simulator\OPV_Simulator\obj\Debug\MainWindow.g.cs
+C:\Users\OET Intern\source\repos\OPV_Simulator\OPV_Simulator\obj\Debug\App.g.cs
+C:\Users\OET Intern\source\repos\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Simulator_MarkupCompile.cache
+C:\Users\OET Intern\source\repos\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Simulator_MarkupCompile.lref
+C:\Users\OET Intern\source\repos\OPV_Simulator\OPV_Simulator\obj\Debug\MainWindow.baml
+C:\Users\OET Intern\source\repos\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Simulator.g.resources
+C:\Users\OET Intern\source\repos\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Simulator.Properties.Resources.resources
+C:\Users\OET Intern\source\repos\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Simulator.csproj.GenerateResource.cache
+C:\Users\OET Intern\source\repos\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Simulator.csproj.CoreCompileInputs.cache
+C:\Users\OET Intern\source\repos\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Simulator.exe
+C:\Users\OET Intern\source\repos\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Simulator.pdb
+C:\Users\OET Intern\source\repos\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.dll
+C:\Users\OET Intern\source\repos\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\OET Intern\source\repos\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.pdb
+C:\Users\OET Intern\source\repos\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.xml
+C:\Users\OET Intern\source\repos\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\OET Intern\source\repos\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\OET Intern\source\repos\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Simulator.csproj.CopyComplete
+C:\Users\Xatzifire\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\OPV_Simulator.exe.config
+C:\Users\Xatzifire\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\OPV_Simulator.exe
+C:\Users\Xatzifire\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\OPV_Simulator.pdb
+C:\Users\Xatzifire\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.dll
+C:\Users\Xatzifire\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Xatzifire\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.pdb
+C:\Users\Xatzifire\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.xml
+C:\Users\Xatzifire\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Xatzifire\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Xatzifire\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Simulator.csprojAssemblyReference.cache
+C:\Users\Xatzifire\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\MainWindow.g.cs
+C:\Users\Xatzifire\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\App.g.cs
+C:\Users\Xatzifire\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Simulator_MarkupCompile.cache
+C:\Users\Xatzifire\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Simulator_MarkupCompile.lref
+C:\Users\Xatzifire\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\MainWindow.baml
+C:\Users\Xatzifire\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Simulator.g.resources
+C:\Users\Xatzifire\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Simulator.Properties.Resources.resources
+C:\Users\Xatzifire\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Simulator.csproj.GenerateResource.cache
+C:\Users\Xatzifire\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Xatzifire\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Simulator.csproj.CopyComplete
+C:\Users\Xatzifire\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Simulator.exe
+C:\Users\Xatzifire\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Simulator.pdb
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\OPV_Simulator.exe.config
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\OPV_Simulator.exe
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\OPV_Simulator.pdb
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.dll
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.pdb
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.xml
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Simulator.csprojAssemblyReference.cache
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\MainWindow.g.cs
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\App.g.cs
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Simulator_MarkupCompile.cache
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Simulator_MarkupCompile.lref
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\MainWindow.baml
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Simulator.g.resources
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Simulator.Properties.Resources.resources
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Simulator.csproj.GenerateResource.cache
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Simulator.csproj.CoreCompileInputs.cache
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Simulator.csproj.CopyComplete
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Simulator.exe
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Simulator.pdb
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\Interop.UCAddinLib.dll
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Simulator.csproj.ResolveComReference.cache

@@ -1,0 +1,132 @@
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.dll
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.pdb
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.xml
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\Interop.UCAddinLib.dll
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.csproj.ResolveComReference.cache
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\MainWindow.g.cs
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\App.g.cs
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\MainWindow.baml
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.csproj.GenerateResource.cache
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.csproj.CoreCompileInputs.cache
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.csproj.CopyComplete
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\OPV_Helper.exe.config
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\OPV_Helper.exe
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\OPV_Helper.pdb
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper_MarkupCompile.cache
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper_MarkupCompile.lref
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.g.resources
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.Properties.Resources.resources
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.exe
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.pdb
+C:\Users\OET Intern\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.csprojAssemblyReference.cache
+C:\Users\LTFN\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\OPV_Helper.exe.config
+C:\Users\LTFN\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\OPV_Helper.exe
+C:\Users\LTFN\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\OPV_Helper.pdb
+C:\Users\LTFN\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.dll
+C:\Users\LTFN\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\LTFN\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.pdb
+C:\Users\LTFN\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.xml
+C:\Users\LTFN\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\LTFN\Desktop\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\LTFN\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.csprojAssemblyReference.cache
+C:\Users\LTFN\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\LTFN\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\Interop.UCAddinLib.dll
+C:\Users\LTFN\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.csproj.ResolveComReference.cache
+C:\Users\LTFN\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\MainWindow.g.cs
+C:\Users\LTFN\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\App.g.cs
+C:\Users\LTFN\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper_MarkupCompile.cache
+C:\Users\LTFN\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper_MarkupCompile.lref
+C:\Users\LTFN\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\MainWindow.baml
+C:\Users\LTFN\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.g.resources
+C:\Users\LTFN\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.Properties.Resources.resources
+C:\Users\LTFN\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.csproj.GenerateResource.cache
+C:\Users\LTFN\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.csproj.CoreCompileInputs.cache
+C:\Users\LTFN\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.csproj.CopyComplete
+C:\Users\LTFN\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.exe
+C:\Users\LTFN\Desktop\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.pdb
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\Accord.dll.config
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\OPV_Helper.exe.config
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\OPV_Helper.exe
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\OPV_Helper.pdb
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\Accord.dll
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\Accord.Extensions.Core.dll
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\Accord.Extensions.Math.dll
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\Accord.Extensions.Statistics.dll
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\Accord.Math.Core.dll
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\Accord.Math.dll
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\Accord.Statistics.dll
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\DotImaging.Primitives2D.dll
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.dll
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\Accord.xml
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\Accord.Extensions.Core.xml
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\Accord.Extensions.Math.xml
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\Accord.Extensions.Statistics.xml
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\Accord.Math.xml
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\Accord.Math.Core.xml
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\Accord.Statistics.xml
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.pdb
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.xml
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.csprojAssemblyReference.cache
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\obj\Debug\Interop.ACTIVEXLib.dll
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\obj\Debug\Interop.UCAddinLib.dll
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.csproj.ResolveComReference.cache
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\obj\Debug\MainWindow.g.cs
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\obj\Debug\App.g.cs
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper_Content.g.cs
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper_MarkupCompile.cache
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper_MarkupCompile.lref
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\obj\Debug\MainWindow.baml
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.g.resources
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.Properties.Resources.resources
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.csproj.GenerateResource.cache
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.csproj.CoreCompileInputs.cache
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.csproj.CopyComplete
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.exe
+C:\Users\LTFN\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.pdb
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\Accord.dll.config
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\OPV_Helper.exe.config
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\OPV_Helper.exe
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\OPV_Helper.pdb
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\Accord.dll
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\Accord.Extensions.Core.dll
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\Accord.Extensions.Math.dll
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\Accord.Extensions.Statistics.dll
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\Accord.Math.Core.dll
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\Accord.Math.dll
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\Accord.Statistics.dll
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\DotImaging.Primitives2D.dll
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.dll
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\Accord.xml
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\Accord.Extensions.Core.xml
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\Accord.Extensions.Math.xml
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\Accord.Extensions.Statistics.xml
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\Accord.Math.xml
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\Accord.Math.Core.xml
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\Accord.Statistics.xml
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.pdb
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.xml
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.csprojAssemblyReference.cache
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.csproj.ResolveComReference.cache
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\obj\Debug\MainWindow.g.cs
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\obj\Debug\App.g.cs
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper_Content.g.cs
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper_MarkupCompile.cache
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper_MarkupCompile.lref
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\obj\Debug\MainWindow.baml
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.g.resources
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.Properties.Resources.resources
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.csproj.GenerateResource.cache
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.csproj.CoreCompileInputs.cache
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.csproj.CopyComplete
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.exe
+C:\Users\Xatzifire\Desktop\Chatzifotiadis\OPV_Simulator\OPV_Simulator\obj\Debug\OPV_Helper.pdb
